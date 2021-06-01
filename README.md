@@ -37,15 +37,23 @@ git update-ref -d HEAD / ลบ commit ทั้งหมด
 
 ______________________________________________________________
 git remote add origin https://.....
+
 git remote show origin
+
 git branch 
+
 git branch xxx / สร้าง branch 
+
 git checkout xxx / ย้ายไป branch ที่ต้องการ
+
 git merge xxx / ร่วม branch
+
 git branch --delete xxx  / ลบ branch 
+
 git push -u origin xxx   / push ขึ้นตามชื่อ branch
 
 git pull --rebase
+
 git push
 
 https://ohshitgit.com/th
