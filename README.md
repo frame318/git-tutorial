@@ -42,6 +42,8 @@ ______________________________________________________________
 
 git remote add origin https://.....
 
+git remote set-url origin https://.....
+
 git remote show origin
 
 git branch 
