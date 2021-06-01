@@ -64,4 +64,6 @@ git pull --rebase
 
 git push
 
+git push -f origin xxx / ถ้ามีปัญหา
+
 https://ohshitgit.com/th
