@@ -39,6 +39,8 @@ git update-ref -d HEAD / ลบ commit ทั้งหมด
 ไฟล์ .gitignore สำหรับใส่ชื่อไฟล์ หรือ โฟลเดอ ที่ไม่ต้องการอัพเข้า commit
 
 ______________________________________________________________
+git branch -m main // เปลี่ยนชื่อ
+
 
 git remote add origin https://.....
 
