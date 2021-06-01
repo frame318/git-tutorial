@@ -3,6 +3,7 @@
 	M มีการเปลี่ยนแปลงไฟล์
 ___________________________________________
 git config --global user.name "your_name"
+
 git config --global user.email "your@email.com"
 _____________________________________________
 git clone <remote_url>
