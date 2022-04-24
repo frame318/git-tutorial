@@ -17,7 +17,7 @@ git init    / สร้างgit
 
 git add .             / add ไฟล์ทั้งหมด
 
-git add *.txt    / add ไฟล์ที่นามสกุล.html ทั้งหมด
+git add *.txt    / add ไฟล์ที่นามสกุล.htmlทั้งหมด
 
 git add src/*.txt    / add ไฟล์ที่เลือก
 
