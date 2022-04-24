@@ -37,7 +37,7 @@ git log / ดูประวัติ commit ทั้งหมด
 
 git log --oneline/ ดูประวัติ commit ทั้งหมด (ที่ละบรรทัด)
 
-git log --oneline/ ดูประวัติ commit ทั้งหมด (แสดงเป็นเส้น)
+git log --graph/ ดูประวัติ commit ทั้งหมด (แสดงเป็นเส้น)
   
 git checkout 218e3f7a   / ย้ายไปยัง commit ที่ต้องการด้วย รหัส 7 หลักแรก
 
