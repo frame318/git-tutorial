@@ -25,7 +25,7 @@ git status / ดูการเปลียนแปลงต่างๆ
 
 git reset .  / ยกเลิก add
 
-gir rm -rf --cached /ล้างทุกอย่าง
+git rm -rf --cached /ล้างทุกอย่าง
 
 git commit -m "xxx"   / commit
 
