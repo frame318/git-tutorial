@@ -35,6 +35,10 @@ git reflog  / ดูประวัติ commit ทั้งหมด
 
 git log / ดูประวัติ commit ทั้งหมด
 
+git log --oneline/ ดูประวัติ commit ทั้งหมด (ที่ละบรรทัด)
+
+git log --oneline/ ดูประวัติ commit ทั้งหมด (แสดงเป็นเส้น)
+  
 git checkout 218e3f7a   / ย้ายไปยัง commit ที่ต้องการด้วย รหัส 7 หลักแรก
 
 git reset --hard 5aecfd2 / ลบ commit  ที่ต้องการด้วย รหัส 7 หลักแรก
